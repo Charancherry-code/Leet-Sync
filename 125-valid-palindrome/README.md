@@ -4,7 +4,7 @@
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-
+..
 <pre>
 <strong>Input:</strong> s = &quot;A man, a plan, a canal: Panama&quot;
 <strong>Output:</strong> true
