@@ -3,7 +3,7 @@ public:
     int missingNumber(vector<int>& nums) {
         
 
-        //O(N) T.c
+        //O(N) T.c  O(1) S>C
         int n = nums.size();
 
         int sum = (n*(n+1))/2;
